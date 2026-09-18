@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Library Web Management System
 
 Dự án **Library Web** là hệ thống quản lý thư viện trực tuyến gồm các chức năng dành cho:
@@ -45,3 +46,7 @@ npm install
 npm run dev
 4. Sau đó mở trình duyệt:
 http://localhost:5173
+=======
+# CongCuVaPhuongPhap1
+Trang1
+>>>>>>> 7074dce21b0b97926d722db9ece87f257566f0b3
